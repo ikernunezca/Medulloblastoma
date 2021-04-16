@@ -70,9 +70,6 @@ Molti version: https://github.com/gilles-didier/MolTi
 ### Preprocessing scripts @mpetrizzelli: 
 ***If you do not intend to produce this data again, you can jump to section 1***
 
-***DISCLAIMER: Accessing RNA-sequencing data from Forget et al. 2018 requires signing a Data Transfer Agreement (DPA) by the European Genome-phenome Archive (EGA). EGA accession number: EGAB00000001285. Therefore, this data is not available in the repository.***
-
-
 These scripts generate the input data for the rest of the study, by preprocessing the data of both Medulloblastoma cohorts (Forget et al. 2018) (Archer et al. 2018).
 
 You can use this scripts to reproduce the data, which then correponds to two files that are used by the rest of the scripts: ***https://raw.githubusercontent.com/iPC-project-H2020/ipcrg/master/scripts/CURIE2gr/multi.layer.net.gr*** (Forget et al. 2018 cohort, which is downloaded by the scripts themselves) and ***~/Medulloblastoma/data/multilayer_archer.gr*** (Archer et al. 2018). 
