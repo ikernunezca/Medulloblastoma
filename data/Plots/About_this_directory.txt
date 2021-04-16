@@ -1,0 +1,1 @@
+This directory is meant to hold the generated plots from the different scripts of the Repository.

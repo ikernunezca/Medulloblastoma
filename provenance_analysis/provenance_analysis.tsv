@@ -1,0 +1,277 @@
+cluster	enriched association	type	definition
+G3_G4	MONDO:0001187	diseases	urinary bladder cancer
+G3_G4	MONDO:0007256	diseases	hepatocellular carcinoma
+G3_G4	MONDO:0007564	diseases	pilomatrixoma
+G3_G4	MONDO:0008093	diseases	nevus epidermal
+G3_G4	MONDO:0008297	diseases	variegate porphyria
+G3_G4	MONDO:0008903	diseases	lung cancer
+G3_G4	MONDO:0011794	diseases	Dravet syndrome
+G3_G4	MONDO:0013926	diseases	hypogonadotropic hypogonadism 14 with or without anosmia
+G3_G4	MONDO:0014102	diseases	hypogonadotropic hypogonadism 17 with or without anosmia
+G3_G4	MONDO:0014103	diseases	hypogonadotropic hypogonadism 18 with or without anosmia
+G3_G4	MONDO:0014105	diseases	hypogonadotropic hypogonadism 19 with or without anosmia
+G3_G4	MONDO:0014106	diseases	hypogonadotropic hypogonadism 20 with or without anosmia
+G3_G4	MONDO:0014107	diseases	hypogonadotropic hypogonadism 21 with or without anosmia
+G3_G4	MONDO:0014461	diseases	hypogonadotropic hypogonadism 22 with or without anosmia
+G4	MONDO:0021003	diseases	polydactyly (disease)
+SHH	MONDO:0011285	diseases	age related macular degeneration 1
+SHH	MONDO:0011679	diseases	craniosynostosis syndrome autosomal recessive
+WNT	MONDO:0009994	diseases	alveolar rhabdomyosarcoma (disease)
+WNT	MONDO:0023122	diseases	familial prostate carcinoma
+G3_G4	25aics	metabolites	(S)-2-[5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido]succinate
+G3_G4	2obut	metabolites	2-Oxobutanoate
+G3_G4	2oxoadp	metabolites	2 Oxoadipate C6H6O5
+G3_G4	3mb2coa	metabolites	3-Methylbut-2-enoyl-CoA
+G3_G4	4ppan	metabolites	D-4'-Phosphopantothenate
+G3_G4	5dpmev	metabolites	 R  5 Diphosphomevalonate C6H10O10P2
+G3_G4	HC01434	metabolites	Oxalatosuccinate(3-)
+G3_G4	M02637	metabolites	Octadecatrienoylcarnitine
+G3_G4	acac	metabolites	Acetoacetate
+G3_G4	cit	metabolites	Citrate
+G3_G4	dmnoncrn	metabolites	4,8 dimethylnonanoyl carnitine
+G3_G4	dmpp	metabolites	Dimethylallyl diphosphate
+G3_G4	ethamp	metabolites	Ethanolamine phosphate C2H7NO4P
+G3_G4	frdp	metabolites	Farnesyl diphosphate
+G3_G4	fuc1p__L	metabolites	L-Fucose 1-phosphate
+G3_G4	g3pc	metabolites	Sn-Glycero-3-phosphocholine
+G3_G4	gpail_hs	metabolites	D-glucosaminylphosphatidylinositol
+G3_G4	grdp	metabolites	Geranyl diphosphate
+G3_G4	hexdtrcoa	metabolites	7,10,13-Hexadecatrienoyl Coenzyme A
+G3_G4	icit	metabolites	Isocitrate
+G3_G4	ipdp	metabolites	Isopentenyl diphosphate
+G3_G4	leuktrC4	metabolites	Leukotriene C4 ER
+G3_G4	leuleu	metabolites	Leucylleucine
+G3_G4	minohp	metabolites	Myo-Inositol hexakisphosphate
+G3_G4	occoa	metabolites	Octanoyl-CoA (n-C8:0CoA)
+G3_G4	ppa	metabolites	Propionate (n-C3:0)
+G3_G4	stcoa	metabolites	Stearoyl-CoA (n-C18:0CoA)
+G4	so4	metabolites	Sulfate
+SHH	nicrnt	metabolites	Nicotinate D-ribonucleotide
+SHH	pnto__R	metabolites	(R)-Pantothenate
+WNT	ficytC	metabolites	Ferricytochrome c
+WNT	nmn	metabolites	NMN C11H14N2O8P
+WNT	o2s	metabolites	Superoxide anion
+WNT	r5p	metabolites	Alpha-D-Ribose 5-phosphate
+G3	R-HSA-1169091	pathways	Activation of NF-kappaB in B cells
+G3	R-HSA-1234176	pathways	Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha
+G3	R-HSA-1236974	pathways	ER-Phagosome pathway
+G3	R-HSA-1236978	pathways	Cross-presentation of soluble exogenous antigens (endosomes)
+G3	R-HSA-174084	pathways	Autodegradation of Cdh1 by Cdh1:APC/C
+G3	R-HSA-174113	pathways	SCF-beta-TrCP mediated degradation of Emi1
+G3	R-HSA-174154	pathways	APC/C:Cdc20 mediated degradation of Securin
+G3	R-HSA-174178	pathways	APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1
+G3	R-HSA-174184	pathways	Cdc20:Phospho-APC/C mediated degradation of Cyclin A
+G3	R-HSA-180534	pathways	Vpu mediated degradation of CD4
+G3	R-HSA-180585	pathways	Vif-mediated degradation of APOBEC3G
+G3	R-HSA-187577	pathways	SCF(Skp2)-mediated degradation of p27/p21
+G3	R-HSA-195253	pathways	Degradation of beta-catenin by the destruction complex
+G3	R-HSA-202424	pathways	Downstream TCR signaling
+G3	R-HSA-202430	pathways	Translocation of ZAP-70 to Immunological synapse
+G3	R-HSA-203754	pathways	NOSIP mediated eNOS trafficking
+G3	R-HSA-211733	pathways	Regulation of activated PAK-2p34 by proteasome mediated degradation
+G3	R-HSA-2467813	pathways	Separation of Sister Chromatids
+G3	R-HSA-2871837	pathways	FCERI mediated NF-kB activation
+G3	R-HSA-3359475	pathways	Defective MMAA causes methylmalonic aciduria type cblA
+G3	R-HSA-3359478	pathways	Defective MUT causes methylmalonic aciduria mut type
+G3	R-HSA-349425	pathways	Autodegradation of the E3 ubiquitin ligase COP1
+G3	R-HSA-350562	pathways	Regulation of ornithine decarboxylase (ODC)
+G3	R-HSA-382556	pathways	ABC-family proteins mediated transport
+G3	R-HSA-426048	pathways	Arachidonate production from DAG
+G3	R-HSA-426117	pathways	Cation-coupled Chloride cotransporters
+G3	R-HSA-4419969	pathways	Depolymerisation of the Nuclear Lamina
+G3	R-HSA-450408	pathways	AUF1 (hnRNP D0) binds and destabilizes mRNA
+G3	R-HSA-451307	pathways	Activation of Na-permeable kainate receptors
+G3	R-HSA-4608870	pathways	Asymmetric localization of PCP proteins
+G3	R-HSA-4641257	pathways	Degradation of AXIN
+G3	R-HSA-4641258	pathways	Degradation of DVL
+G3	R-HSA-5358346	pathways	Hedgehog ligand biogenesis
+G3	R-HSA-5362768	pathways	Hh mutants that don't undergo autocatalytic processing are degraded by ERAD
+G3	R-HSA-5607761	pathways	Dectin-1 mediated noncanonical NF-kB signaling
+G3	R-HSA-5607764	pathways	CLEC7A (Dectin-1) signaling
+G3	R-HSA-5610780	pathways	Degradation of GLI1 by the proteasome
+G3	R-HSA-5610783	pathways	Degradation of GLI2 by the proteasome
+G3	R-HSA-5610785	pathways	GLI3 is processed to GLI3R by the proteasome
+G3	R-HSA-5632684	pathways	Hedgehog 'on' state
+G3	R-HSA-5658442	pathways	Regulation of RAS by GAPs
+G3	R-HSA-5668541	pathways	TNFR2 non-canonical NF-kB pathway
+G3	R-HSA-5676590	pathways	NIK-->noncanonical NF-kB signaling
+G3	R-HSA-5678895	pathways	Defective CFTR causes cystic fibrosis
+G3	R-HSA-5689603	pathways	UCH proteinases
+G3	R-HSA-68827	pathways	CDT1 association with the CDC6:ORC:origin complex
+G3	R-HSA-68949	pathways	Orc1 removal from chromatin
+G3	R-HSA-69017	pathways	CDK-mediated phosphorylation and removal of Cdc6
+G3	R-HSA-69481	pathways	G2/M Checkpoints
+G3	R-HSA-69601	pathways	Ubiquitin Mediated Degradation of Phosphorylated Cdc25A
+G3	R-HSA-75815	pathways	Ubiquitin-dependent degradation of Cyclin D
+G3	R-HSA-8852276	pathways	The role of GTSE1 in G2/M progression after G2 checkpoint
+G3	R-HSA-8854050	pathways	FBXL7 down-regulates AURKA during mitotic entry and in early mitosis
+G3	R-HSA-8939902	pathways	Regulation of RUNX2 expression and activity
+G3	R-HSA-8941858	pathways	Regulation of RUNX3 expression and activity
+G3	R-HSA-8948751	pathways	Regulation of PTEN stability and activity
+G3	R-HSA-9020702	pathways	Interleukin-1 signaling
+G3	R-HSA-9604323	pathways	Negative regulation of NOTCH4 signaling
+G3_G4	R-HSA-111446	pathways	Activation of BIM and translocation to mitochondria 
+G3_G4	R-HSA-111452	pathways	Activation and oligomerization of BAK protein
+G3_G4	R-HSA-1234174	pathways	Cellular response to hypoxia
+G3_G4	R-HSA-1250342	pathways	PI3K events in ERBB4 signaling
+G3_G4	R-HSA-1251932	pathways	PLCG1 events in ERBB2 signaling
+G3_G4	R-HSA-1296061	pathways	HCN channels
+G3_G4	R-HSA-1306955	pathways	GRB7 events in ERBB2 signaling
+G3_G4	R-HSA-1362409	pathways	Mitochondrial iron-sulfur cluster biogenesis
+G3_G4	R-HSA-1474244	pathways	Extracellular matrix organization
+G3_G4	R-HSA-166016	pathways	Toll Like Receptor 4 (TLR4) Cascade
+G3_G4	R-HSA-168188	pathways	Toll Like Receptor TLR6:TLR2 Cascade
+G3_G4	R-HSA-1855167	pathways	Synthesis of pyrophosphates in the cytosol
+G3_G4	R-HSA-1855191	pathways	Synthesis of IPs in the nucleus
+G3_G4	R-HSA-194002	pathways	Glucocorticoid biosynthesis
+G3_G4	R-HSA-1963642	pathways	PI3K events in ERBB2 signaling
+G3_G4	R-HSA-1971475	pathways	A tetrasaccharide linker sequence is required for GAG synthesis
+G3_G4	R-HSA-2022857	pathways	Keratan sulfate degradation
+G3_G4	R-HSA-2024096	pathways	HS-GAG degradation
+G3_G4	R-HSA-202733	pathways	Cell surface interactions at the vascular wall
+G3_G4	R-HSA-212718	pathways	EGFR interacts with phospholipase C-gamma
+G3_G4	R-HSA-2160916	pathways	Hyaluronan uptake and degradation
+G3_G4	R-HSA-2219530	pathways	Constitutive Signaling by Aberrant PI3K in Cancer
+G3_G4	R-HSA-2395516	pathways	Electron transport from NADPH to Ferredoxin
+G3_G4	R-HSA-264870	pathways	Caspase-mediated cleavage of cytoskeletal proteins
+G3_G4	R-HSA-2892245	pathways	POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation
+G3_G4	R-HSA-3000157	pathways	Laminin interactions
+G3_G4	R-HSA-3000480	pathways	Scavenging by Class A Receptors
+G3_G4	R-HSA-3000497	pathways	Scavenging by Class H Receptors
+G3_G4	R-HSA-3371497	pathways	HSP90 chaperone cycle for steroid hormone receptors (SHR)
+G3_G4	R-HSA-3560783	pathways	Defective B4GALT7 causes EDS, progeroid type
+G3_G4	R-HSA-3560801	pathways	Defective B3GAT3 causes JDSSDHD
+G3_G4	R-HSA-373760	pathways	L1CAM interactions
+G3_G4	R-HSA-380994	pathways	ATF4 activates genes in response to endoplasmic reticulum  stress
+G3_G4	R-HSA-390918	pathways	Peroxisomal lipid metabolism
+G3_G4	R-HSA-419037	pathways	NCAM1 interactions
+G3_G4	R-HSA-425366	pathways	Transport of bile salts and organic acids, metal ions and amine compounds
+G3_G4	R-HSA-4341670	pathways	Defective NEU1 causes sialidosis
+G3_G4	R-HSA-434313	pathways	Intracellular metabolism of fatty acids regulates insulin secretion
+G3_G4	R-HSA-4420332	pathways	Defective B3GALT6 causes EDSP2 and SEMDJL1
+G3_G4	R-HSA-446199	pathways	Synthesis of Dolichyl-phosphate
+G3_G4	R-HSA-446210	pathways	Synthesis of UDP-N-acetyl-glucosamine
+G3_G4	R-HSA-447041	pathways	CHL1 interactions
+G3_G4	R-HSA-5250968	pathways	Toxicity of botulinum toxin type A (BoNT/A)
+G3_G4	R-HSA-5250992	pathways	Toxicity of botulinum toxin type E (BoNT/E)
+G3_G4	R-HSA-549127	pathways	Organic cation transport
+G3_G4	R-HSA-5602415	pathways	UNC93B1 deficiency - HSE
+G3_G4	R-HSA-5602498	pathways	MyD88 deficiency (TLR2/4)
+G3_G4	R-HSA-5603041	pathways	IRAK4 deficiency (TLR2/4)
+G3_G4	R-HSA-5638303	pathways	Inhibition of Signaling by Overexpressed EGFR
+G3_G4	R-HSA-5669034	pathways	TNFs bind their physiological receptors
+G3_G4	R-HSA-6785631	pathways	ERBB2 Regulates Cell Motility
+G3_G4	R-HSA-6787639	pathways	GDP-fucose biosynthesis
+G3_G4	R-HSA-73817	pathways	Purine ribonucleoside monophosphate biosynthesis
+G3_G4	R-HSA-75896	pathways	Plasmalogen biosynthesis
+G3_G4	R-HSA-76009	pathways	Platelet Aggregation (Plug Formation)
+G3_G4	R-HSA-8847993	pathways	ERBB2 Activates PTK6 Signaling
+G3_G4	R-HSA-8850843	pathways	Phosphate bond hydrolysis by NTPDase proteins
+G3_G4	R-HSA-8875513	pathways	MET interacts with TNS proteins
+G3_G4	R-HSA-8939242	pathways	RUNX1 regulates transcription of genes involved in differentiation of keratinocytes
+G3_G4	R-HSA-8949275	pathways	RUNX3 Regulates Immune Response and Cell Migration
+G3_G4	R-HSA-8951911	pathways	RUNX3 regulates RUNX1-mediated transcription
+G3_G4	R-HSA-8964208	pathways	Phenylalanine metabolism
+G3_G4	R-HSA-9024909	pathways	BDNF activates NTRK2 (TRKB) signaling
+G3_G4	R-HSA-9609523	pathways	Insertion of tail-anchored proteins into the endoplasmic reticulum membrane
+G3_G4	R-HSA-977443	pathways	GABA receptor activation
+G4	R-HSA-1839117	pathways	Signaling by cytosolic FGFR1 fusion mutants
+G4	R-HSA-416993	pathways	Trafficking of GluR2-containing AMPA receptors
+SHH	R-HSA-1296053	pathways	Classical Kir channels
+SHH	R-HSA-1296067	pathways	Potassium transport channels
+SHH	R-HSA-419812	pathways	Calcitonin-like ligand receptors
+SHH	R-HSA-5362798	pathways	Release of Hh-Np from the secreting cell
+SHH	R-HSA-5632681	pathways	Ligand-receptor interactions
+WNT	R-HSA-1181150	pathways	Signaling by NODAL
+WNT	R-HSA-1433617	pathways	Regulation of signaling by NODAL
+WNT	R-HSA-1502540	pathways	Signaling by Activin
+WNT	R-HSA-198203	pathways	PI3K/AKT activation
+WNT	R-HSA-381426	pathways	Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)
+WNT	R-HSA-5621480	pathways	Dectin-2 family
+WNT	R-HSA-5632927	pathways	Defective Mismatch Repair Associated With MSH3
+WNT	R-HSA-5632928	pathways	Defective Mismatch Repair Associated With MSH2
+WNT	R-HSA-5632968	pathways	Defective Mismatch Repair Associated With MSH6
+WNT	R-HSA-8957275	pathways	Post-translational protein phosphorylation
+G3	D04789	drugs	Lubeluzole (USAN/INN)
+G3	21	PPIs	ATP binding cassette subfamily A member 3 (ABCA3)
+G3	6443	PPIs	sarcoglycan beta (SGCB)
+G3	8554	PPIs	protein inhibitor of activated STAT 1 (PIAS1)
+G3	25822	PPIs	DnaJ heat shock protein family (Hsp40) member B5 (DNAJB5)
+G3_G4	154	PPIs	adrenoceptor beta 2 (ADRB2)
+G3_G4	429	PPIs	achaete-scute family bHLH transcription factor 1 (ASCL1)
+G3_G4	605	PPIs	BAF chromatin remodeling complex subunit BCL7A (BCL7A)
+G3_G4	610	PPIs	hyperpolarization activated cyclic nucleotide gated potassium and sodium channel 2 (HCN2)
+G3_G4	1355	PPIs	cytochrome c oxidase assembly homolog COX15 (COX15)
+G3_G4	1387	PPIs	CREB binding protein (CREBBP)
+G3_G4	2634	PPIs	guanylate binding protein 2 (GBP2)
+G3_G4	2845	PPIs	G protein-coupled receptor 22 (GPR22)
+G3_G4	2977	PPIs	guanylate cyclase 1 soluble subunit alpha 2 (GUCY1A2)
+G3_G4	3123	PPIs	major histocompatibility complex, class II, DR beta 1 (HLA-DRB1)
+G3_G4	3127	PPIs	major histocompatibility complex, class II, DR beta 5 (HLA-DRB5)
+G3_G4	3265	PPIs	HRas proto-oncogene, GTPase (HRAS)
+G3_G4	3398	PPIs	inhibitor of DNA binding 2 (ID2)
+G3_G4	4087	PPIs	SMAD family member 2 (SMAD2)
+G3_G4	4101	PPIs	MAGE family member A2 (MAGEA2)
+G3_G4	4135	PPIs	microtubule associated protein 6 (MAP6)
+G3_G4	4316	PPIs	matrix metallopeptidase 7 (MMP7)
+G3_G4	4616	PPIs	growth arrest and DNA damage inducible beta (GADD45B)
+G3_G4	4843	PPIs	nitric oxide synthase 2 (NOS2)
+G3_G4	4899	PPIs	nuclear respiratory factor 1 (NRF1)
+G3_G4	5588	PPIs	protein kinase C theta (PRKCQ)
+G3_G4	5598	PPIs	mitogen-activated protein kinase 7 (MAPK7)
+G3_G4	5871	PPIs	mitogen-activated protein kinase kinase kinase kinase 2 (MAP4K2)
+G3_G4	5925	PPIs	RB transcriptional corepressor 1 (RB1)
+G3_G4	6096	PPIs	RAR related orphan receptor B (RORB)
+G3_G4	6927	PPIs	HNF1 homeobox A (HNF1A)
+G3_G4	6957	PPIs	T cell receptor beta locus (TRB)
+G3_G4	7066	PPIs	thrombopoietin (THPO)
+G3_G4	8718	PPIs	TNF receptor superfamily member 25 (TNFRSF25)
+G3_G4	9463	PPIs	protein interacting with PRKCA 1 (PICK1)
+G3_G4	9935	PPIs	MAF bZIP transcription factor B (MAFB)
+G3_G4	10482	PPIs	nuclear RNA export factor 1 (NXF1)
+G3_G4	10811	PPIs	NADPH oxidase activator 1 (NOXA1)
+G3_G4	10903	PPIs	myotubularin related protein 11 (MTMR11)
+G3_G4	22808	PPIs	muscle RAS oncogene homolog (MRAS)
+G3_G4	22879	PPIs	MON1 homolog B, secretory trafficking associated (MON1B)
+G3_G4	23764	PPIs	MAF bZIP transcription factor F (MAFF)
+G3_G4	27235	PPIs	coenzyme Q2, polyprenyltransferase (COQ2)
+G3_G4	51016	PPIs	ER membrane protein complex subunit 9 (EMC9)
+G3_G4	54101	PPIs	receptor interacting serine/threonine kinase 4 (RIPK4)
+G3_G4	54682	PPIs	MANSC domain containing 1 (MANSC1)
+G3_G4	57337	PPIs	SUMO specific peptidase 7 (SENP7)
+G3_G4	65258	PPIs	metallophosphoesterase 1 (MPPE1)
+G3_G4	80267	PPIs	ER degradation enhancing alpha-mannosidase like protein 3 (EDEM3)
+G3_G4	83547	PPIs	Rab interacting lysosomal protein (RILP)
+G3_G4	84125	PPIs	leucine rich repeats and IQ motif containing 1 (LRRIQ1)
+G3_G4	84719	PPIs	long intergenic non-protein coding RNA 260 (LINC00260)
+G3_G4	84938	PPIs	autophagy related 4C cysteine peptidase (ATG4C)
+G3_G4	89944	PPIs	galactosidase beta 1 like 2 (GLB1L2)
+G3_G4	93649	PPIs	myocardin (MYOCD)
+G3_G4	116071	PPIs	basic leucine zipper ATF-like transcription factor 2 (BATF2)
+G3_G4	116443	PPIs	glutamate ionotropic receptor NMDA type subunit 3A (GRIN3A)
+G3_G4	124152	PPIs	IQ motif containing K (IQCK)
+G3_G4	149420	PPIs	PDLIM1 interacting kinase 1 like (PDIK1L)
+G3_G4	161882	PPIs	zinc finger protein, FOG family member 1 (ZFPM1)
+G3_G4	165721	PPIs	DnaJ heat shock protein family (Hsp40) member B8 (DNAJB8)
+G3_G4	222234	PPIs	family with sequence similarity 185 member A (FAM185A)
+G3_G4	245972	PPIs	ATPase H+ transporting V0 subunit d2 (ATP6V0D2)
+G3_G4	254013	PPIs	electron transfer flavoprotein subunit beta lysine methyltransferase (ETFBKMT)
+G3_G4	340571	PPIs	siah E3 ubiquitin protein ligase 1 pseudogene 1 (SIAH1P1)
+G3_G4	344387	PPIs	cyclin dependent kinase like 4 (CDKL4)
+G3_G4	373856	PPIs	ubiquitin specific peptidase 41 (USP41)
+G3_G4	442247	PPIs	ret finger protein like 4B (RFPL4B)
+G3_G4	100129777	PPIs	BCL2 interacting protein 3 pseudogene 6 (BNIP3P6)
+G3_G4	100187907	PPIs	triiodothyronine receptor auxiliary protein (TRAP)
+G4	5926	PPIs	AT-rich interaction domain 4A (ARID4A)
+SHH	773	PPIs	calcium voltage-gated channel subunit alpha1 A (CACNA1A)
+SHH	2113	PPIs	ETS proto-oncogene 1, transcription factor (ETS1)
+SHH	3727	PPIs	JunD proto-oncogene, AP-1 transcription factor subunit (JUND)
+SHH	6670	PPIs	Sp3 transcription factor (SP3)
+SHH	8202	PPIs	nuclear receptor coactivator 3 (NCOA3)
+SHH	23635	PPIs	single stranded DNA binding protein 2 (SSBP2)
+SHH	55366	PPIs	leucine rich repeat containing G protein-coupled receptor 4 (LGR4)
+SHH	645323	PPIs	long intergenic non-protein coding RNA 461 (LINC00461)
+WNT	92	PPIs	activin A receptor type 2A (ACVR2A)
+WNT	495	PPIs	ATPase H+/K+ transporting subunit alpha (ATP4A)
+WNT	5452	PPIs	POU class 2 homeobox 2 (POU2F2)
+WNT	84060	PPIs	RNA binding motif protein 48 (RBM48)
