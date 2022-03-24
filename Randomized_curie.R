@@ -271,6 +271,8 @@ en_cual_guardo <- as:bs
 structures_12 <- paste0("data/Molti_Output/",seq(0.5,12,0.5),".csv")
 # Detect community trajectories and tree distances between each gene. 
 curie_to_12_full <- CmmD_from_community_structures(nodelist = NULL, community_structures = structures_12, resolution_start = 0.5,resolution_end = 12,interval = 0.5)
+curie_to_12_full$hamming_distance_matrix = curie_to_12_full$distance_matrix * 24 # This transformation is needed because parallel dist is weighted.
+# 24 = length(seq(0.5,12,0.5)) -> number of resolution values analyzed
 
 # Load genes associated to each patient from CURIE data
 tata <- as.data.frame(read.csv(file = "https://raw.githubusercontent.com/iPC-project-H2020/ipcrg/master/scripts/CURIE2gr/multi.layer.net.gr",sep = "\t",header = F, stringsAsFactors=F))
