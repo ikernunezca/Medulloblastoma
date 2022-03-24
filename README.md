@@ -10,7 +10,7 @@ This Readme file contains the instructions to launch the scripts generated for t
 #### Before launching any of the scripts, please take a moment to check if you have installed the library dependencies of these scripts:
 
       R packages:
-            CmmD (available to install via devtools at GitHub repository ikernunezca/CmmD)
+            CmmD (available to install via devtools at GitHub repository ikernunezca/CmmD). VERSION 1.0.0.
             BiocManager
             RCy3
             paxtoolsr
