@@ -8,7 +8,8 @@ library(circlize)
 structures_12 <- paste0("data/Molti_Output/",seq(0.5,12,0.5),".csv")
 genes_of_interest <- unique(as.character(read.table(file = "data/gene_mentions.lst")[,1])) # Genes of interest come from text-mining activities of the paper.
 curie_to_12_full <- CmmD_from_community_structures(nodelist = NULL, community_structures = structures_12, resolution_start = 0.5,resolution_end = 12,interval = 0.5,distmethod = "hamming",threads = 7)
-
+curie_to_12_full$hamming_distance_matrix = curie_to_12_full$distance_matrix * 24 # This transformation is needed because parallel dist is weighted.
+# 24 = length(seq(0.5,12,0.5)) -> number of resolution values analyzed
 
 
 # Dendrogram of Molti's Clustering. Final plot (Figure 3) is a representation on how communities dissagregate during the process.
