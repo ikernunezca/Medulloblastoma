@@ -134,6 +134,8 @@ signifD <- function(x, d, upper, lower, eval = 0) {
 structures_12 <- paste0("data/Molti_Output/",seq(0.5,30,0.5),".csv")
 # Detect community trajectories and tree distances between each gene. 
 curie <- CmmD_from_community_structures(nodelist = NULL, community_structures = structures_12, resolution_start = 0.5,resolution_end = 30,interval = 0.5)
+curie_to_12_full$hamming_distance_matrix = curie_to_12_full$distance_matrix * 24 # This transformation is needed because parallel dist is weighted.
+# 24 = length(seq(0.5,12,0.5)) -> number of resolution values analyzed
 class(curie$gene_community_matrix) <- "numeric"
 
 # Plotting Mean gene number per community & Number of communities
