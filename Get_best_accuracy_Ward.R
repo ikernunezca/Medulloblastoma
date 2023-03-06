@@ -199,7 +199,7 @@ for(u in 1:11){ # 1 to 11 because of non 0-based language: If we want, for examp
     final_kk_used[u,val] <- kk
     mean_per_pair[u,val] <- media
   }
-  message(paste0("Acuracies for tetha=",u-1," calculated."))
+  message(paste0("Accuracies for tetha=",u-1," calculated."))
 }
 
 ###Save outputs
